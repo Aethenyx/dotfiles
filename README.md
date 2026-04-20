@@ -1,12 +1,15 @@
 # Dotfiles
 
-![Fullscreen](assets/fullscreen.png)
-![Fullscreen2](assets/fullscreen2.png)
+![Fullscreen](assets/Fullscreen.png)
+
+<br>
+
+![Fullscreen2](assets/Fullscreen2.png)
 
 ## Usage
 ```bash
 cd $HOME
-git clone https://git.krolyxon.com/krolyxon/dotfiles ~/.dotfiles
+git clone https://github.com/Aethenyx/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 
