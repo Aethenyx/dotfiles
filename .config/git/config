@@ -1,0 +1,8 @@
+[user]
+	email = me@krolyxon.com
+	name = krolyxon
+[init]
+	defaultBranch = master
+
+[push]
+        ; autosetupremote = true
